@@ -75,7 +75,7 @@
     <hibernate.version>5.2.12.Final</hibernate.version>
     <ehcache.version>2.10.4</ehcache.version>
     <lucene.version>6.3.0</lucene.version>
-    <solr.version>6.3.0</solr.version>
+    <solr.version>8.4.1</solr.version>
     <!--gwt.version>2.7.0</gwt.version-->
     <gwt.version>2.6.1</gwt.version>
     <smartgwt.version>6.1p20170719</smartgwt.version>
