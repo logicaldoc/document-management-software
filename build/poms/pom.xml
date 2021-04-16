@@ -94,7 +94,7 @@
         <smartgwt.version>12.1p</smartgwt.version>
         <cxf.version>3.2.14</cxf.version>
         <slf4j.version>1.7.30</slf4j.version>
-        <ant.version>1.8.2</ant.version>
+        <ant.version>1.10.9</ant.version>
         <httpclient.version>4.5.2</httpclient.version>
         <jackson.version>2.11.4</jackson.version>
         <poi.version>3.16</poi.version>
