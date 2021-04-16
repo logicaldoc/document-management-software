@@ -97,7 +97,7 @@
         <ant.version>1.8.2</ant.version>
         <httpclient.version>4.5.2</httpclient.version>
         <jackson.version>2.11.4</jackson.version>
-        <poi.version>3.16</poi.version>
+        <poi.version>5.0.0</poi.version>
         <jaxb.version>2.2.11</jaxb.version>
     </properties>
     <dependencyManagement>
