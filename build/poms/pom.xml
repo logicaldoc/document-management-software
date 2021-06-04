@@ -95,7 +95,7 @@
         <cxf.version>3.2.14</cxf.version>
         <slf4j.version>1.7.30</slf4j.version>
         <ant.version>1.8.2</ant.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jackson.version>2.11.4</jackson.version>
         <poi.version>3.16</poi.version>
         <jaxb.version>2.2.11</jaxb.version>
